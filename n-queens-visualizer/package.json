@@ -1,0 +1,46 @@
+{
+  "name": "n-queens-visualizer",
+  "version": "1.0.0",
+  "description": "A visual exploration of the n-queens problem",
+  "scripts": {
+    "start": "node server.js",
+    "lint": "eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haseeb-qureshi/n-queens-visualizer"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "n-queens",
+    "simulated annealing",
+    "local search",
+    "eight queens",
+    "algorithms"
+  ],
+  "author": "Haseeb Qureshi <haseeb@haseebq.com> (http://github.com/haseeb-qureshi)",
+  "license": "MIT",
+  "homepage": "https://github.com/haseeb-qureshi",
+  "devDependencies": {
+    "babel-core": "^6.0.20",
+    "babel-eslint": "^4.1.3",
+    "babel-loader": "^6.0.1",
+    "babel-preset-es2015": "^6.0.15",
+    "babel-preset-react": "^6.0.15",
+    "babel-preset-stage-0": "^6.0.15",
+    "eslint-plugin-react": "^3.6.2",
+    "react-hot-loader": "^1.3.0",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.1"
+  },
+  "dependencies": {
+    "css-loader": "^0.23.1",
+    "flux": "^2.0.0",
+    "object-assign": "^1.0.0",
+    "rc-slider": "^3.3.2",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0",
+    "style-loader": "^0.13.0"
+  }
+}
