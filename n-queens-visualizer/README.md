@@ -4,7 +4,7 @@ A visual exploration of local search algorithms which generate solutions to the 
 
 
 
-![preview](http://i.imgur.com/NLAFIIt.gif)
+
 
 * Visualizes N-Queens problem using different local search algorithms
 * Created an action queue to process moves asynchronously without violating the Flux pattern
