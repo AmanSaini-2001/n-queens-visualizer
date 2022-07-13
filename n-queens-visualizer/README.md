@@ -1,8 +1,8 @@
 ## N-Queens Visualizer
 
-A visual exploration of local search algorithms which generate solutions to the N-Queens problem. Featured on [React Rocks](https://react.rocks/example/n-queens-visualizer).
+A visual exploration of local search algorithms which generate solutions to the N-Queens problem.
 
-VIEW LIVE: https://haseeb-qureshi.github.io/n-queens-visualizer
+
 
 ![preview](http://i.imgur.com/NLAFIIt.gif)
 
